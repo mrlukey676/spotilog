@@ -1,0 +1,2 @@
+# spotilog
+Log Spotify activity
